@@ -1,6 +1,11 @@
 # Collaborative-Pre-training-for-Federated-Learning (CoPreFL)
-The supplementary material for our work "Rethinking the Starting Point: Collaborative Pre-Training for Federated Downstream Tasks" published in AAAI 2025. 
+The repository for our work on collaborative pre-training for Federated Learning, published in AAAI 2025.
 
+- **Title:** Rethinking the Starting Point: Collaborative Pre-Training for Federated Downstream Tasks
+- **Full paper link:** https://arxiv.org/pdf/2402.02225
+- **Appendix of the paper:**
+
+  
 ## Quick summary
 ### Findings
 We found that initializing federated learning (FL) with different methods (i.e., random weights or centralized pre-training) results in limited performance, as these methods fail to capture the heterogeneous characteristics of unforeseen FL settings. This leads to either lower average accuracy or higher performance variance across clients (shown in the below right figure).
