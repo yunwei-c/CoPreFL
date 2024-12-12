@@ -3,7 +3,7 @@ The repository for our work on collaborative pre-training for Federated Learning
 
 - **Title:** Rethinking the Starting Point: Collaborative Pre-Training for Federated Downstream Tasks
 - **Full paper link:** https://arxiv.org/pdf/2402.02225
-- **Appendix of the paper:**
+- **Appendix of the paper:** https://github.com/yunwei-c/CoPreFL/blob/main/Appendix/App.pdf
 
   
 ## Quick summary
